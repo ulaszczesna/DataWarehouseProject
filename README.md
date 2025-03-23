@@ -12,7 +12,7 @@ The ETL process consists of three layers:
 
 ## 📊 Data Flow Diagram
 
-![Data Flow Diagram](docs/diagram (1).svg)
+![Data Flow Diagram](docs/diagram(1).svg)
 
 ## 📂 Repository Structure
 ```
